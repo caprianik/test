@@ -1,2 +1,2 @@
-print('nikhil')
+
 print('nik')
